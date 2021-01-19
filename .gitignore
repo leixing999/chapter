@@ -1,6 +1,9 @@
 .DS_Store
 node_modules
 /Debug
+/x64
+/*/x64
+.vs/*
 
 
 # local env files
