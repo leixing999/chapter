@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+/Debug
+
+
+# local env files
+
+
+# Log files
+*.tlog
+*.lastbuildstate
+
+# Editor directories and files
+*.obj
+*.idb
+*.pdb
+*.exe.recipe
